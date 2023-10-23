@@ -1,6 +1,8 @@
 live_config_reload: true
 window:
-  opacity: 0.8
-  # padding:
-  #   x: 18
-  #   y: 16
+  opacity: 0.85
+  decorations: buttonless
+font:
+  normal:
+    family: "JetBrainsMono Nerd Font"
+  size: 15
